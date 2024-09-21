@@ -10,3 +10,5 @@ python3 script.py -u user -d domain -p password -n ntproofstr -k key
 usage for rkgenwithhash.py
 
 python3 keycalc-script-hash.py -u user -H hash -d domain -n NTProofStr -k key -v
+
+Tnank you
